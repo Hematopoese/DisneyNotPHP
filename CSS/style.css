@@ -30,7 +30,7 @@ nav li a{
     text-decoration: none; /*TIRA SUBLINHADO DO LINK*/
 }
 nav li a:hover{
-    color: blue;
+    color: #0d6efd;
 }
 nav li{
     margin: 0 20px;
@@ -65,7 +65,7 @@ nav li{
     border-radius: 15px; /*ARREDONDAR AS PONTAS NO OBJETO*/
 }
 .btn:hover{
-    background: blue;
+    background: #0d6efd;
     color: #fff;
 }
 /*FILMES*/
